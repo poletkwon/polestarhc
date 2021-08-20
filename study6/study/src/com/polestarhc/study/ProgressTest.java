@@ -1,4 +1,7 @@
-package com.polestarhc.study;
+package com.polestarhc.study6.study.src.com.polestarhc.study;
+
+import com.polestarhc.study.INotification;
+import com.polestarhc.study.IncreaseThreadTest;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

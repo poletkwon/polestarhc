@@ -1,4 +1,4 @@
-package com.polestarhc.study2;
+package com.polestarhc.study6.study.src.com.polestarhc.study2;
 
 import java.io.*;
 

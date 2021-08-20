@@ -1,4 +1,4 @@
-package com.polestarhc.study;
+package com.polestarhc.study6.study.src.com.polestarhc.study;
 
 public class Study {
     private String patientId;

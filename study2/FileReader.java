@@ -1,8 +1,6 @@
 package com.polestarhc.study2;
 
 import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.sql.SQLOutput;
 
 public class FileReader {
 
@@ -90,7 +88,7 @@ public class FileReader {
         FileReader fileReader = new FileReader();
 
 
-        fileReader.CopyFile();
+//        fileReader.CopyFile();
         fileReader.readFile();
 
         // 파일을 복사해서 저장.
